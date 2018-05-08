@@ -1,0 +1,19 @@
+.jumbotron{
+  text-align: center;
+}
+
+.headerimg{
+  width: 75%;
+  height: auto;
+  float: center;
+}
+.dttky{
+  width: 100%;
+  height: auto;
+  padding-bottom: 30px;
+
+}
+
+.well h2 {
+  text-align: center;
+}
